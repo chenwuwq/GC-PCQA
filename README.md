@@ -33,7 +33,7 @@ python test.py
 ## Citation
 If you find our work useful, please give us star and cite our paper as:
 ```
-article{chen2024dhcn,
+article{chen2024no,
   title={No-Reference Point Cloud Quality Assessment via Graph Convolutional Network}, 
   author={Chen, Wu and Jiang, Qiuping and Zhou, Wei and Shao, Feng and Zhai, Guangtao and Lin, Weisi},
   journal={IEEE Transactions on Multimedia}, 
