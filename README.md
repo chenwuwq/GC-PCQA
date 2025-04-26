@@ -13,6 +13,6 @@ pandas
 pillow
 
 ## Dataset
-The code is tested on the SJTU-PCQA and WPC datasets, which can be downloaded from the following links.
-SJTU-PCQA：[https://smt.sjtu.edu.cn/]
-WPC：[https://github.com/qdushl/Waterloo-Point-Cloud-Database]
+The code is tested on the SJTU-PCQA and WPC datasets, which can be downloaded from the following links.  
+SJTU-PCQA：[https://smt.sjtu.edu.cn/]. 
+WPC：[https://github.com/qdushl/Waterloo-Point-Cloud-Database]. 
