@@ -16,7 +16,8 @@ pillow
 The code is tested on the SJTU-PCQA and WPC datasets, which can be downloaded from the following links.  
 SJTU-PCQA：[https://smt.sjtu.edu.cn/].  
 WPC：[https://github.com/qdushl/Waterloo-Point-Cloud-Database].  
-For these datasets, you can use 'utils/get_projection2D.py' to generate multi-view projection images.
+For these datasets, you can use 'utils/get_projection2D.py' to generate multi-view projection images.   
+The adjacency matrix based on the angular distance of projections is stored in 'utils/spatial_position.mat'.
 
 ## Training and Testing
 You can simply train model with the following command:
