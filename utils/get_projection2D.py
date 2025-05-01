@@ -63,7 +63,7 @@ def camera_rotation(path, out_path, file_name):
     tmp = 0
     interval = 5.82
 
-    use_number = [1, 4, 7, 10, 13, 16, 19, 22, 25, 28]
+    use_number = [1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 58]
     while tmp < 60:
         tmp += 1
         if tmp < 30:
